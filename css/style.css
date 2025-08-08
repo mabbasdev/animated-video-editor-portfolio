@@ -156,7 +156,7 @@ body {
   margin-left: 24px;
   height: calc(100vh - 48px);
   background-size: cover;
-  background-position: center center;
+  background-position: center top;
   width: calc(33.3333333333% - 48px);
 }
 
